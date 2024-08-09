@@ -1,6 +1,35 @@
-- 👋 Hi, I’m Paul Rehbein
-- 👀 I’m interested in programming (of course)
-- 🌱 I’m currently learning computer science
-- 📫 How to reach me paul.rehbein@proton.me
-- ⚡ Fun fact: I like coding
+# Hi, I'm Paul 👋
 
+I am a **Computer Science and Economics** student at bwd Bern and gibb. I have a passion for continuously learning and improving my skills. My focus is on expanding my expertise in software development and cloud technologies to build a solid portfolio and advance my career in the tech industry.
+
+## Skills and Experience 🛠️
+
+- **Programming Languages:** 
+  - C# (MAUI)
+  - Java
+  - Python
+
+- **Web Development:** 
+  - HTML
+  - CSS
+  - JavaScript (React, etc.)
+
+- **Database Management:** 
+  - SQL (MySQL, MariaDB, MongoDb, SQLite)
+
+- **Containerization:**
+  - Docker
+  - Kubernetes
+
+- **Cloud Computing:** 
+  - Amazon AWS
+  - Azure
+
+- **And many more...**
+
+## Connect with Me 📫
+
+- **[LinkedIn](linkedin.com/in/paul-rehbein-88b640322)**
+- **[Portfolio](https://paulrehbein.com)**
+
+Let's connect and explore the exciting world of technology together!
