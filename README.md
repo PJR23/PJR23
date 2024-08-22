@@ -2,6 +2,9 @@
 
 I am a **Computer Science and Economics** student at bwd Bern and gibb. I have a passion for continuously learning and improving my skills. My focus is on expanding my expertise in software development and cloud technologies to build a solid portfolio and advance my career in the tech industry.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PJR23&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PJR23&theme=light)](https://git.io/streak-stats)
+
 ## Skills and Experience 🛠️
 
 - **Programming Languages:** 
